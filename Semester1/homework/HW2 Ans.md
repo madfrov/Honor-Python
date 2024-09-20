@@ -70,7 +70,6 @@ Let's apply these rules to the year 1000:
 
 ```
 year = int(input("Enter a year: "))
-
 if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
     print(year,"is a leap year")
 else:
@@ -91,7 +90,7 @@ if num2 > max_num:
 if num3 > max_num:
     max_num = num3
 
-print(f"The maximum number is: ",max_num)
+print("The maximum number is: ",max_num)
 ```
 
  **Question 4: FizzBuzz** Write a program that prints numbers from 1 to 100. But for multiples of 3, print "Fizz" instead of numbers, for multiples of 5, print "Buzz" instead of numbers, and for numbers that are multiples of both 3 and 5, print "FizzBuzz".
