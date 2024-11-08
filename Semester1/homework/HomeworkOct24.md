@@ -10,11 +10,6 @@
 1 2 3 4 5 6 7
 ```
 
-
-```python
-
-```
-
 #  Question2
 ## Given two integers A and B (A ≤ B). Print all numbers from A to B inclusively,in ascending order, if A < B, or in descending order, if A ≥ B.
 ### Sample input
