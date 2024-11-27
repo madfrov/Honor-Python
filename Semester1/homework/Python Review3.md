@@ -165,7 +165,7 @@ A. first     B. second     C. third     D. no output
      print("!")
 ```
 
- A. hello     B. world     C. !     D. 无输出
+ A. hello     B. world     C. !     D. no output
 
 1.Please output a three-digit integer, the number reversed.
 
